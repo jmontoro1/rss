@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0">
+<channel>
+    <title>Apple Iphone 13</title>
+    <link>https://www.apple.com/es/iphone-13/</link>
+    <description>Todo lo que deseas saber sobre el nuevo Iphone 13</description>
+    <category>/Noticias/Tecnologia/Moviles/Apple</category>
+    <language>es-es</language>
+    <lastBuildDate>fri, 18 Feb 2022 16:00:00 +0200</lastBuildDate>
+    <skipDays>
+            <day>Saturday</day>
+            <day>Sunday</day>
+    </skipDays>
+    <skipHours>
+            <hour>0</hour>
+            <hour>1</hour>
+            <hour>2</hour>
+            <hour>3</hour>
+            <hour>4</hour>
+            <hour>5</hour>
+    </skipHours>
+    <webMaster>a21mobljo@iesgrancapitan.org (Jose Pedro Montoro Blancas)</webMaster>
+    <image>
+        <url>https://drive.google.com/file/d/1xdO7lspxqdo54OQSdI1uGNtKZhR3N2qZ/view?usp=sharing</url>
+        <title>Apple Iphone 13</title>
+        <link>https://drive.google.com/file/d/1xdO7lspxqdo54OQSdI1uGNtKZhR3N2qZ/view?usp=sharing</link>
+    </image>
+    <item>
+        <link>https://www.gsmarena.com/apple_iphone_13-11103.php</link>
+        <title>Especificaciones Iphone 13</title>
+        <description>Estas son las especificaciones del nuevo Iphone 13</description>
+        <author>a21mobljo@iesgrancapitan.org (Jose Pedro Montoro Blancas)</author>
+        <enclosure url="https://drive.google.com/file/d/1TmKUKpIN674WYPLGY8s3P_LgTPh4YcQ_/view?usp=sharing"
+                length="59453"
+                type="image/png" />
+        <pubDate>fri, 18 Feb 2022 16:00:00 +0200</pubDate>
+    </item>
+    <item>
+        <link>https://www.xatakamovil.com/analisis/iphone-13-vs-iphone-13-vs-iphone-13-pro-vs-iphone-13-pro-max-comparativa-a-fondo</link>
+        <title>Diferentes Iphone 13</title>
+        <description>Aqui tenemos los distintos tipos de Iphone 13 disponibles</description>
+        <author>a21mobljo@iesgrancapitan.org (Jose Pedro Montoro Blancas)</author>
+        <enclosure url="https://drive.google.com/file/d/1grxjYe-bSGpMJZ9zLMXYSMkLqZd90tAp/view?usp=sharing"
+                length="59453"
+                type="image/png" />
+        <pubDate>fri, 18 Feb 2022 16:00:00 +0200</pubDate>
+    </item>
+    <item>
+        <link>https://www.k-tuin.com/blog/iphone-12-vs-iphone-13</link>
+        <title>Diferencias entre Iphone 12 y Iphone 13</title>
+        <description>En este articulo podemos comprobar las diferencias entre el iphone 12 y su sucesor</description>
+        <author>a21mobljo@iesgrancapitan.org (Jose Pedro Montoro Blancas)</author>
+        <enclosure url="https://drive.google.com/file/d/1bV31-EAxr_DQeb0L7WFpO6gytbpNPW6F/view?usp=sharing"
+                length="59453"
+                type="image/png" />
+        <pubDate>fri, 18 Feb 2022 16:00:00 +0200</pubDate>
+    </item>
+    <item>
+        <link>https://www.xataka.com/nuevo/iphone-14-informacion</link>
+        <title>Todo lo que sabemos sobre el nuevo Iphone 14</title>
+        <description>Todo lo que podemos saber sobre el nuevo Iphone 14</description>
+        <author>a21mobljo@iesgrancapitan.org (Jose Pedro Montoro Blancas)</author>
+        <enclosure url="https://drive.google.com/file/d/1m0QtqWAhEZiA42kTL0IgBhQf_3Tez9oH/view?usp=sharing"
+                length="59453"
+                type="image/jpg" />
+        <pubDate>fri, 18 Feb 2022 16:00:00 +0200</pubDate>
+    </item>
+</channel>
+</rss>
